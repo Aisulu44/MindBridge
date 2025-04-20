@@ -24,6 +24,7 @@ header {
     font-size: 2rem;
     font-weight: bold;
     background: linear-gradient(90deg, #FF9EB2, #FAA5FB, #F495FF, #E2D5FF, #8F93FF);
+    -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
     margin-right: auto;
 }
